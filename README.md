@@ -1,5 +1,5 @@
 # Telangana-Tourism-Department-Analysis
-- Interact with the dashboard (https://www.novypro.com/project/telangana-tourism-dashboard)
+- Interact with the dashboard (https://www.novypro.com/project/telangana-tourism-dashboard-power-bi-1)
 - This project highlights my ability to use data visualization and analytics tools to identify key insights and provide actionable recommendations.
 
 - Telangana Tourism Department Analysis aim to provide insight into how best to increase revenue and reach goals. The objective is to monitor how many visitors visiting the tourist places in Telangana.Created several reports with information on following factors which will help the organization determine what action they will need to take to increase the revenue by increasing the visitors.
